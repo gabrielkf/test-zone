@@ -1,4 +1,5 @@
 using LeetCode;
+using LeetCode.DailyProblem;
 
 // ReSharper disable InvalidXmlDocComment
 

@@ -1,6 +1,7 @@
 // ReSharper disable InvalidXmlDocComment
 
 using LeetCode;
+using LeetCode.DailyProblem;
 
 namespace TestZone.LeetCode;
 
